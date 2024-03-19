@@ -1,9 +1,10 @@
 <img src="https://uploadkon.ir/uploads/a6f219_24Picture1.jpg" border="0" alt="https://uploadkon.ir/uploads/a6f219_24Picture1.jpg" />
-<h3 align="center">A passionate frontend developer from Iran</h3>
+<h3 align="center">A developer from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riopaniashvili&label=Profile%20views&color=0e75b6&style=flat" alt="riopaniashvili" /> </p>
 
 <h3 align="left">Connect with me:</h3>
+<h2></h2>
 <p align="left">
 </p>
 
